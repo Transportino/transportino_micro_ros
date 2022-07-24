@@ -3,7 +3,7 @@ name: 'Transportino Repository Notify'
 on:
   push:
     branches:
-      - main    
+      - galactic    
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
