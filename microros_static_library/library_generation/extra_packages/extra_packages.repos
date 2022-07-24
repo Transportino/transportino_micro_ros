@@ -1,5 +1,5 @@
 repositories:
-  control_msgs:
+  transportino_interfaces:
     type: git
-    url: https://github.com/ros-controls/control_msgs
-    version: galactic-devel
+    url: https://github.com/Transportino/transportino_interfaces.git
+    version: main
