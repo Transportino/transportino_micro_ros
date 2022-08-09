@@ -222,6 +222,7 @@ rcl_interfaces/ParameterType.msg
 rcl_interfaces/Log.msg
 rcl_interfaces/ParameterDescriptor.msg
 transportino_interfaces/BoardReset.srv
+transportino_interfaces/StatusLedCtrl.srv
 transportino_interfaces/BoardCmd.srv
 transportino_interfaces/BoardMotors.msg
 transportino_interfaces/BoardMotor.msg
